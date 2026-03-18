@@ -1,6 +1,6 @@
 👋 Hi, I'm Garrett
 
-💻 IT Support | ServiceNow (ITSM) | Technical Problem Solver
+💻 IT Support | ServiceNow (ITSM) | Incident Management | User Access | Troubleshooting
 
 I'm a Computer Information Systems graduate currently building hands-on experience in IT support and ServiceNow administration.
 
